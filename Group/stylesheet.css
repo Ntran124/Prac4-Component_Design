@@ -8,7 +8,7 @@ body{
 	background-color: #ffffff;
 }
 
-};
+
 
 .fontMain {
 	font-family: Open Sans;
@@ -19,11 +19,12 @@ body{
 	padding: 10px;
 	border-radius: 5px;
 }
-<<<<<<< HEAD
+
 
 .subHeadings {
 	font-size: 26px;
 	color: #455c95;
+	font-family: Open Sans Sans;
 }
 
 .bodyCenter{
@@ -51,10 +52,4 @@ body{
 
 
 
-=======
-=======
 
-.subHeadings {
-	font-size: 22px;
-}
->>>>>>> 5dcaf3b33237aa0d28b7b86bd28c29a7be8b93a9
