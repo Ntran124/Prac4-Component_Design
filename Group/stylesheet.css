@@ -14,7 +14,30 @@
 	font-size: 40px;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+.subHeadings {
+	font-size: 26px;
+	color: #455c95;
+}
+
+p {
+	font-family: Open Sans;
+	font-size:16px;
+}
+=======
+.buttons {
+	text-allgn: center;
+	background-color: #5495ff;
+}
+
+.buttons:hover {
+	background-color: #2678ff
+=======
+>>>>>>> 146b23d86f8bd456edc4bac269d1af230c177756
 #body{
 	text-align: left;
 	color: black;
 }
+>>>>>>> e01dbc12a85aea34c9693e4d4f2b43a24a7af312
