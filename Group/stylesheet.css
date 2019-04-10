@@ -24,20 +24,20 @@ body{
 .subHeadings {
 	font-size: 26px;
 	color: #455c95;
-=======
-<<<<<<< HEAD
+}
+
 .bodyCenter{
 	text-align: left;
 	color: black;
 
->>>>>>> 5dcaf3b33237aa0d28b7b86bd28c29a7be8b93a9
+
 }
 .userinput{
   font-style: absolute;
   padding:12px;
   border-radius:5px;
 }
-<<<<<<< HEAD
+
 
 .buttons {
 	text-allgn: center;
