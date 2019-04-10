@@ -1,3 +1,6 @@
+body{
+	margin: 120px;
+}
 .backGroundPurple {
 	background-color: #200146;
 }
@@ -16,7 +19,19 @@
 	padding: 10px;
 	border-radius: 5px;
 }
-#body{
+<<<<<<< HEAD
+.bodyCenter{
 	text-align: left;
 	color: black;
+
+}
+.userinput{
+  font-style: absolute;
+  padding:12px;
+  border-radius:5px;
+}
+=======
+
+.subHeadings {
+	font-size: 22px;
 }
