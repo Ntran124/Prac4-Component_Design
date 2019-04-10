@@ -23,7 +23,7 @@
 }
 .headings {
 	font-size: 50px;
-	color: #ffffff;
+	color: black;
 	text-align: center;
 }
 .subHeadings1 {
@@ -54,9 +54,11 @@ p {
 	background-color: #2678ff;
 }
 
-.footer {
-	position: absolute;
+#footer {
+	position: relative;
 	height: 10px;
 	margin-top: 650px;
-	margin-left: 650px;
+	margin-left: 710px;
+	margin-bottom: 100px;
+	font-family: Century gothic;
 }
