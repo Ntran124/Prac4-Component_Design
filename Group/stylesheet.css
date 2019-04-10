@@ -16,67 +16,6 @@ body{
 .heading {
 	font-size: 40px;
 }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-
-.subHeadings {
-	font-size: 26px;
-	color: #455c95;
-}
->>>>>>> c15538269e50bfe20ce2171e32f1b4418d02c2e5
 
 .bodyCenter{
 =======
-
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-.subHeadings {
-	font-size: 26px;
-	color: #455c95;
-}
-
-p {
-	font-family: Open Sans;
-	font-size:16px;
-}
-=======
-.buttons {
-	text-allgn: center;
-	background-color: #5495ff;
-}
-
-.buttons:hover {
-	background-color: #2678ff
-=======
->
-
-
-}
-.userinput{
-  font-style: absolute;
-  padding:12px;
-  border-radius:5px;
-}
-
-
-.buttons {
-	text-allgn: center;
-	background-color: #5495ff;
-}
-
-.buttons:hover {
-	background-color: #2678ff;
-}
-
-
-
-
-=======
-=======
-
-.subHeadings {
-	font-size: 22px;
-}
->>>>>>> 5dcaf3b33237aa0d28b7b86bd28c29a7be8b93a9
