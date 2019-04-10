@@ -42,3 +42,10 @@ p {
 .buttons:hover {
 	background-color: #2678ff;
 }
+
+.footer {
+	position: absolute;
+	height: 10px;
+	margin-top: 650px;
+	margin-left: 650px;
+}
