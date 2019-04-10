@@ -1,25 +1,21 @@
-body{
-	margin: 120px;
-}
 .backGroundPurple {
 	background-color: #200146;
+
 }
 .backGroundWhite {
 	background-color: #ffffff;
 }
 
-};
-
 .fontMain {
 	font-family: Open Sans;
 }
 
-.block1 {
-	width: 175px;
-	padding: 10px;
-	border-radius: 5px;
+.heading {
+	font-size: 40px;
 }
+<<<<<<< HEAD
 
+<<<<<<< HEAD
 .subHeadings {
 	font-size: 26px;
 	color: #455c95;
@@ -29,3 +25,18 @@ p {
 	font-family: Open Sans;
 	font-size:16px;
 }
+=======
+.buttons {
+	text-allgn: center;
+	background-color: #5495ff;
+}
+
+.buttons:hover {
+	background-color: #2678ff
+=======
+#body{
+	text-align: left;
+	color: black;
+>>>>>>> 91a8d71d1e6df0c5fd6bd41086f91d786943c323
+}
+>>>>>>> e01dbc12a85aea34c9693e4d4f2b43a24a7af312
