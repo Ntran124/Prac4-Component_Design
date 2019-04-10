@@ -13,18 +13,8 @@
 .heading {
 	font-size: 40px;
 }
-<<<<<<< HEAD
 
-.buttons {
-	text-allgn: center;
-	background-color: #5495ff;
-}
-
-.buttons:hover {
-	background-color: #2678ff
-=======
 #body{
 	text-align: left;
 	color: black;
->>>>>>> 91a8d71d1e6df0c5fd6bd41086f91d786943c323
 }
