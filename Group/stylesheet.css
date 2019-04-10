@@ -10,7 +10,6 @@ body{
 	background-color: #ffffff;
 }
 
-
 .fontMain {
 	font-family: Open Sans;
 }
@@ -26,28 +25,20 @@ body{
 	color: #455c95;
 }
 
-<<<<<<< HEAD
 .bodyCenter {
 	text-align: left;
 	color: black;
 
-=======
 .bodyCenter{
 	text-align: left;
 	color: black;
 
-
->>>>>>> c15538269e50bfe20ce2171e32f1b4418d02c2e5
 }
 .userinput{
   font-style: absolute;
   padding:12px;
   border-radius:5px;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> c15538269e50bfe20ce2171e32f1b4418d02c2e5
 
 .buttons {
 	text-allgn: center;
