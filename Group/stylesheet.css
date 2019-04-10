@@ -1,8 +1,11 @@
-.backGround1 {
+body{
+	margin: 120px;
+}
+.backGroundPurple {
 	background-color: #200146;
 
 }
-.backGround2 {
+.backGroundWhite {
 	background-color: #ffffff;
 }
 
