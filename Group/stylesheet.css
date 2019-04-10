@@ -19,6 +19,7 @@ body{
 }
 
 
+
 .subHeadings {
 	font-size: 26px;
 	color: #455c95;
@@ -45,6 +46,8 @@ p{
 .buttons:hover {
 	background-color: #2678ff;
 }
+
+
 
 
 
