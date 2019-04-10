@@ -31,7 +31,7 @@ body{
 }
 p {
 	font-size: 16px;
-	font-family: Open Sans;
+	font-family: Open sans, Century gothic;
 }
 
 .buttons {
@@ -42,4 +42,3 @@ p {
 .buttons:hover {
 	background-color: #2678ff;
 }
-
