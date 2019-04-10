@@ -3,29 +3,41 @@ body{
 }
 .backGroundPurple {
 	background-color: #200146;
-
 }
 .backGroundWhite {
 	background-color: #ffffff;
 }
 
+};
+
 .fontMain {
 	font-family: Open Sans;
 }
 
-.heading {
-	font-size: 40px;
+.block1 {
+	width: 175px;
+	padding: 10px;
+	border-radius: 5px;
 }
+<<<<<<< HEAD
 
 .subHeadings {
 	font-size: 26px;
 	color: #455c95;
-}
+=======
+<<<<<<< HEAD
+.bodyCenter{
+	text-align: left;
+	color: black;
 
-p {
-	font-family: Open Sans;
-	font-size:16px;
+>>>>>>> 5dcaf3b33237aa0d28b7b86bd28c29a7be8b93a9
 }
+.userinput{
+  font-style: absolute;
+  padding:12px;
+  border-radius:5px;
+}
+<<<<<<< HEAD
 
 .buttons {
 	text-allgn: center;
@@ -39,3 +51,10 @@ p {
 
 
 
+=======
+=======
+
+.subHeadings {
+	font-size: 22px;
+}
+>>>>>>> 5dcaf3b33237aa0d28b7b86bd28c29a7be8b93a9
