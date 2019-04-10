@@ -1,7 +1,7 @@
-.backGround1 {
+.backGroundPurple {
 	background-color: #200146;
 }
-.backGround2 {
+.backGroundWhite {
 	background-color: #ffffff;
 }
 
@@ -11,3 +11,8 @@
 	font-family: Open Sans;
 }
 
+.block1 {
+	width: 175px;
+	padding: 10px;
+	border-radius: 5px;
+}
