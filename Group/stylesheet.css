@@ -30,15 +30,6 @@ body{
 	color: black;
 }
 
-.bodyCenter{
-	text-align: left;
-	color: black;
-
-}
-.userinput{
-  font-style: absolute;
-  padding:12px;
-  border-radius:5px;}
 
 .buttons {
 	text-allgn: center;
@@ -49,6 +40,3 @@ body{
 	background-color: #2678ff;
 }
 
-.subHeadings {
-	font-size: 22px;
-}
