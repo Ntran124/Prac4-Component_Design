@@ -3,21 +3,19 @@ body{
 }
 .backGroundPurple {
 	background-color: #200146;
+
 }
 .backGroundWhite {
 	background-color: #ffffff;
 }
 
 
-
 .fontMain {
 	font-family: Open Sans;
 }
 
-.block1 {
-	width: 175px;
-	padding: 10px;
-	border-radius: 5px;
+.heading {
+	font-size: 40px;
 }
 
 
@@ -27,23 +25,22 @@ body{
 	font-family: Open Sans Sans;
 }
 
-.bodyCenter{
-	text-align: left;
-	color: black;
 
-
+p{
+	font-family: Open Sans;
+	font-size:16px;
 }
-.userinput{
-  font-style: absolute;
-  padding:12px;
-  border-radius:5px;
-}
-
 
 .buttons {
 	text-allgn: center;
 	background-color: #5495ff;
 }
+
+.buttons:hover {
+	background-color: #2678ff;
+
+}
+
 
 .buttons:hover {
 	background-color: #2678ff;
