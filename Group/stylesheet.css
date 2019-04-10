@@ -36,6 +36,7 @@
 	text-align: left;
 	color: black;
 }
+
 p {
 	font-size: 16px;
 	font-family: Open sans, Century gothic;
@@ -50,9 +51,11 @@ p {
 	background-color: #2678ff;
 }
 
-.footer {
-	position: absolute;
-	height: 10px;
-	margin-top: 650px;
-	margin-left: 650px;
+#footer {
+	position: relative;
+	height: 5px;
+	margin-top: 600px;
+	margin-left: 1100px;
+	margin-bottom: 100px;
+	font-size: 18px;
 }
