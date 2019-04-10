@@ -1,14 +1,24 @@
 .backGround1 {
 	background-color: #200146;
-<<<<<<< HEAD
+
 }
 .backGround2 {
 	background-color: #ffffff;
 }
 
-};
-
 .fontMain {
 	font-family: Open Sans;
 }
 
+.heading {
+	font-size: 40px;
+}
+
+.buttons {
+	text-allgn: center;
+	background-color: #5495ff;
+}
+
+.buttons:hover {
+	background-color: #2678ff
+}
