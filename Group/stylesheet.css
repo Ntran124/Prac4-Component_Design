@@ -13,10 +13,11 @@
 	background-color: #ffffff;
 }
 
-.block1 {
-	width: 175px;
-	padding: 10px;
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 2px 20px;
 	border-radius: 5px;
+	width: 200px;
 
 }
 .headings {
