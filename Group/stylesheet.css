@@ -1,6 +1,20 @@
 .body{
 	margin: 120px;
 }
+#headings1 {
+	background-size: cover;
+
+}
+.subHeadings1{
+	color:white;
+}
+.backGroundPurple {
+	background-color: #200146;
+}
+
+.backGroundWhite {
+	background-color: #ffffff;
+}
 
 .block1 {
 	width: 175px;
@@ -8,17 +22,14 @@
 	border-radius: 5px;
 }
 .headings {
-	background-size: cover;
-	font-size: 70px;
-	color: #200146;
+	font-size: 50px;
+	color: black;
 	text-align: center;
 }
-
 .subHeadings1 {
 	font-size: 50px;
 	text-align: center;
 	background-color: #200146;
-	color: #ffffff;
 }
 .subHeadings2 {
 	font-size: 30px;
@@ -43,9 +54,11 @@ p {
 	background-color: #2678ff;
 }
 
-.footer {
-	position: absolute;
+#footer {
+	position: relative;
 	height: 10px;
 	margin-top: 650px;
-	margin-left: 650px;
+	margin-left: 710px;
+	margin-bottom: 100px;
+	font-family: Century gothic;
 }
