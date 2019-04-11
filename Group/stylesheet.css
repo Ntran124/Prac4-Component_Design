@@ -5,9 +5,6 @@
 	background-size: cover;
 
 }
-.subHeadings1{
-	color:white;
-}
 .backGroundPurple {
 	background-color: #200146;
 }
@@ -20,18 +17,15 @@
 	width: 175px;
 	padding: 10px;
 	border-radius: 5px;
+
 }
 .headings {
 	font-size: 50px;
-	color: black;
-	text-align: center;
-}
-.subHeadings1 {
-	font-size: 50px;
+	color: #ffffff;
 	text-align: center;
 	background-color: #200146;
 }
-.subHeadings2 {
+.subHeadings1 {
 	font-size: 30px;
 	color: #455c95;
 }
