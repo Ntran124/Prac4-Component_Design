@@ -5,9 +5,6 @@
 	background-size: cover;
 
 }
-.subHeadings1{
-	color:white;
-}
 .backGroundPurple {
 	background-color: #200146;
 }
@@ -16,22 +13,20 @@
 	background-color: #ffffff;
 }
 
-.block1 {
-	width: 175px;
-	padding: 10px;
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 2px 20px;
 	border-radius: 5px;
+	width: 200px;
+
 }
 .headings {
 	font-size: 50px;
-	color: black;
-	text-align: center;
-}
-.subHeadings1 {
-	font-size: 50px;
+	color: #ffffff;
 	text-align: center;
 	background-color: #200146;
 }
-.subHeadings2 {
+.subHeadings1 {
 	font-size: 30px;
 	color: #455c95;
 }
