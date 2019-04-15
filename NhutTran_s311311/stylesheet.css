@@ -1,5 +1,5 @@
 .body{
-	margin: 120px;
+	margin: 40px 400px 20px 20px;
 }
 .headings1 {
 	background-size: cover;
@@ -32,6 +32,7 @@
 }
 .subHeadings2 {
 	font-size: 2vw;
+	color: #455c95;
 }
 
 .bodyCenter {
@@ -50,7 +51,6 @@ p {
 	text-align: center;
   padding: 8px 30px;
 	margin-bottom: 8px;
-	margin-left: 120px;
   display: block;
   width: 200px;
 	border: none;
@@ -68,6 +68,11 @@ p {
 	color: white;
 	text-align: center;
 
+}
+
+.unordered {
+	list-style-type: circle;
+	font-family: font-family: Open sans, Century gothic;
 }
 
 
