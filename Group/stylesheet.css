@@ -21,17 +21,17 @@
 
 }
 .headings {
-	font-size: 50px;
+	font-size: 4vw;
 	color: #ffffff;
 	text-align: center;
 	background-color: #200146;
 }
 .subHeadings1 {
-	font-size: 30px;
+	font-size: 3vw;
 	color: #455c95;
 }
 .subHeadings2 {
-	font-size: 24px;
+	font-size: 2vw;
 }
 
 .bodyCenter {
@@ -39,7 +39,7 @@
 	color: black;
 }
 p {
-	font-size: 16px;
+	font-size: 1vw;
 	font-family: Open sans, Century gothic;
 }
 
