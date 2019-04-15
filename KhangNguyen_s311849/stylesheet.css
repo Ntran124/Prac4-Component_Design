@@ -1,7 +1,8 @@
 .body{
 	margin: auto;
+
 }
-.headings1 {
+#headings1 {
 	background-size: cover;
 
 }
@@ -29,10 +30,12 @@
 .subHeadings1 {
 	font-size: 3vw;
 	color: #455c95;
+	text-align: center;
 }
 .subHeadings2 {
 	font-size: 2vw;
-	color: #455c95;
+	color: #200146;
+
 }
 
 .bodyCenter {
@@ -46,14 +49,8 @@ p {
 
 .buttons {
 	text-allgn: center;
-	background-color: #5389e0;
-	width: 100px;
-	text-align: center;
-  padding: 8px 30px;
-	margin-bottom: 8px;
-  display: block;
-  width: 200px;
-	border: none;
+	background-color: #5495ff;
+	margin-left: 120px;
 }
 
 .buttons:hover {
@@ -71,7 +68,9 @@ p {
 
 }
 
-.unordered {
-	list-style-type: circle;
-	font-family: font-family: Open sans, Century gothic;
+/* My own css */
+
+.resize1 {
+	width: 300px;
+	height: auto;
 }

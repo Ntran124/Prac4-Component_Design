@@ -67,11 +67,41 @@ p {
 	font-family: Century gothic;
 	color: white;
 	text-align: center;
-	font-size: 1vw;
 
 }
 
 .unordered {
 	list-style-type: circle;
 	font-family: font-family: Open sans, Century gothic;
+}
+
+
+/*MY CARD CSS*/
+.image {
+	width: 100%;
+	height: auto;
+	border-radius: 5px 5px 0 0;
+}
+
+.subHeadings1 {
+	font-family: Arial;
+	font-size: 2vw;
+}
+
+.buttons {
+	border: none;
+	margin: 20px auto;
+	width: 100%;
+	padding: 8px 30px;
+	box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2);
+	border-radius: 8px;
+}
+
+.card {
+	border-radius: 5px;
+	position: relative;
+}
+
+.card:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
 }
