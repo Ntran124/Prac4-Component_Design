@@ -1,5 +1,7 @@
-
-#headings1 {
+.body{
+	margin: 120px;
+}
+.headings1 {
 	background-size: cover;
 
 }
@@ -16,21 +18,20 @@
 	padding: 20px 40px;
 	border-radius: 5px;
 	width: 375px;
-	position: relative;
 
 }
 .headings {
-	font-size: 50px;
+	font-size: 4vw;
 	color: #ffffff;
 	text-align: center;
 	background-color: #200146;
 }
 .subHeadings1 {
-	font-size: 30px;
+	font-size: 3vw;
 	color: #455c95;
 }
 .subHeadings2 {
-	font-size: 24px;
+	font-size: 2vw;
 }
 
 .bodyCenter {
@@ -38,7 +39,7 @@
 	color: black;
 }
 p {
-	font-size: 16px;
+	font-size: 1vw;
 	font-family: Open sans, Century gothic;
 }
 
@@ -69,15 +70,17 @@ p {
 
 }
 
+
 /*MY CARD CSS*/
-
 .image {
-	max-width: 100%;
-
+	width: 100%;
+	height: auto;
+	border-radius: 5px 5px 0 0;
 }
 
 .subHeadings1 {
 	font-family: Arial;
+	font-size: 2vw;
 }
 
 .buttons {
@@ -87,4 +90,12 @@ p {
 	padding: 8px 30px;
 	box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2);
 	border-radius: 8px;
+}
+
+.card {
+	border-radius: 5px;
+}
+
+.card:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
 }
