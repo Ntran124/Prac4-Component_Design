@@ -32,6 +32,7 @@
 }
 .subHeadings2 {
 	font-size: 2vw;
+	color: #455c95;
 }
 
 .bodyCenter {
@@ -50,7 +51,6 @@ p {
 	text-align: center;
   padding: 8px 30px;
 	margin-bottom: 8px;
-	margin-left: 120px;
   display: block;
   width: 200px;
 	border: none;
@@ -69,4 +69,9 @@ p {
 	text-align: center;
 	font-size: 1vw;
 
+}
+
+.unordered {
+	list-style-type: circle;
+	font-family: font-family: Open sans, Century gothic;
 }
