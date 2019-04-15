@@ -58,10 +58,10 @@ p {
 }
 
 .footer {
-	position: relative;
-	height: 10px;
-	margin-top: 650px;
-	margin-left: 710px;
-	margin-bottom: 100px;
+	margin-top: 80px;
+	padding: 1.2em 0;
+	background: #200146;
 	font-family: Century gothic;
+	color: white;
+	text-align: center;
 }
