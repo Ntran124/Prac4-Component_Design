@@ -1,5 +1,5 @@
 .body{
-	margin: 20px 445px 20px 20px;
+	margin: 20px 430px 20px 20px;
 
 }
 #headings1 {
@@ -64,4 +64,5 @@ p {
 	font-family: Century gothic;
 	color: white;
 	text-align: center;
+	font-size: 1vw;
 }
