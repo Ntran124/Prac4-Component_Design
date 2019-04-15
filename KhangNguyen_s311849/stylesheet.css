@@ -67,3 +67,10 @@ p {
 	font-size: 1vw;
 
 }
+
+/* My own css */
+
+.resize1 {
+	width: 300px;
+	height: auto;
+}
