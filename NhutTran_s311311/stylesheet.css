@@ -1,6 +1,4 @@
-.body{
-	margin: 120px;
-}
+
 #headings1 {
 	background-size: cover;
 
@@ -15,9 +13,10 @@
 
 .card {
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-	padding: 20px;
+	padding: 20px 40px;
 	border-radius: 5px;
 	width: 375px;
+	position: relative;
 
 }
 .headings {
@@ -45,7 +44,15 @@ p {
 
 .buttons {
 	text-allgn: center;
-	background-color: #5495ff;
+	background-color: #5389e0;
+	width: 100px;
+	text-align: center;
+  padding: 8px 30px;
+	margin-bottom: 8px;
+	margin-left: 120px;
+  display: block;
+  width: 200px;
+	border: none;
 }
 
 .buttons:hover {
@@ -53,18 +60,20 @@ p {
 }
 
 .footer {
-	position: relative;
-	height: 10px;
-	margin-top: 650px;
-	margin-left: 710px;
-	margin-bottom: 100px;
+	margin-top: 80px;
+	padding: 1.2em 0;
+	background: #200146;
 	font-family: Century gothic;
+	color: white;
+	text-align: center;
+
 }
 
 /*MY CARD CSS*/
 
-.container {
+.image {
 	max-width: 100%;
+
 }
 
 .subHeadings1 {
@@ -77,4 +86,5 @@ p {
 	width: 100%;
 	padding: 8px 30px;
 	box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2);
+	border-radius: 8px;
 }
