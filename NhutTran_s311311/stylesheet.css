@@ -15,9 +15,9 @@
 
 .card {
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-	padding: 20px 40px;
+	padding: 20px;
 	border-radius: 5px;
-	width: 200px;
+	width: 375px;
 
 }
 .headings {
@@ -59,4 +59,22 @@ p {
 	margin-left: 710px;
 	margin-bottom: 100px;
 	font-family: Century gothic;
+}
+
+/*MY CARD CSS*/
+
+.container {
+	max-width: 100%;
+}
+
+.subHeadings1 {
+	font-family: Arial;
+}
+
+.buttons {
+	border: none;
+	margin: 20px auto;
+	width: 100%;
+	padding: 8px 30px;
+	box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2);
 }
