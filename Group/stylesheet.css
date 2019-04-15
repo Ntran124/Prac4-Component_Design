@@ -1,7 +1,7 @@
 .body{
 	margin: 120px;
 }
-#headings1 {
+.headings1 {
 	background-size: cover;
 
 }
@@ -64,7 +64,6 @@ p {
 	margin-top: 80px;
 	padding: 1.2em 0;
 	background: #200146;
-	margin-right: -33px;
 	font-family: Century gothic;
 	color: white;
 	text-align: center;
