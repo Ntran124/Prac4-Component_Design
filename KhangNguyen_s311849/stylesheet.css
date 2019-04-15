@@ -21,17 +21,17 @@
 
 }
 .headings {
-	font-size: 50px;
+	font-size: 5vw;
 	color: #ffffff;
 	text-align: center;
 	background-color: #200146;
 }
 .subHeadings1 {
-	font-size: 30px;
+	font-size: 3vw;
 	color: #455c95;
 }
 .subHeadings2 { 
-	font-size: 24px;
+	font-size: 2vw;
 	color: #200146;
 }
 
